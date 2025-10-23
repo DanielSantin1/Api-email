@@ -1,0 +1,12 @@
+# Pasta de dependências do Node
+node_modules
+
+# Arquivo de variáveis de ambiente local
+.env
+
+# Chave secreta do Firebase
+serviceAccountKey.json
+
+# Arquivos de log e debug
+*.log
+npm-debug.log
